@@ -27,7 +27,7 @@ fun add(){
 fun names(name:Array<String>):Array<String>{
  return name
 }
-fun lona(){
-    var her = lona
-    println(her)
+fun add(){
+var x=arrayOf(34,22)
+println(sum)
 }
