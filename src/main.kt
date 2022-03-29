@@ -27,3 +27,7 @@ fun add(){
 fun names(name:Array<String>):Array<String>{
  return name
 }
+fun add(){
+var x=arrayOf(34,22)
+println(sum)
+}
